@@ -16,3 +16,8 @@ Auto Clicker App for Conquerors of Atlantis. Functions include:
 * False positive <ins>Win64:Malware-gen</ins> trojan detected by a few Anti-Virus suites. Refer to the accompanied VirusTotal scan results in the app download page.
 * Does not work under multiple monitors mode.
 * Does not work when Windows scaling is activated.
+
+
+## Prerequisite
+* Windows 11 64bit
+  
