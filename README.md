@@ -5,6 +5,7 @@ Auto Clicker App for Conquerors of Atlantis. Functions include:
 * [x] Fortuna Vault
 * [x] Fortuna Chance
 
+___NOTE: Expires 31 Oct 2023___
 
 ## Features
 * Resizes game window for optimum performance.
