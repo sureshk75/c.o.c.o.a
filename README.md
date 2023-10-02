@@ -18,6 +18,7 @@ Auto Clicker App for Conquerors of Atlantis. Functions include:
 * Does not work when Windows scaling is activated.
 
 
-## Prerequisite
-* Windows 11 64bit
+## Additional Notes
+* App was developed on Windows 11 64bit with the default theme. It will not run on 32bit system and may not run on Windows 10 and below.
+* Tested resolutions worked from 1920x1080 and above but it is unknown if it would run on all monitors with the acceptable resolutions mentioned.
   
