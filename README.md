@@ -17,6 +17,7 @@ ___NOTE: Expires 31 Oct 2023___
 * False positive <ins>Win64:Malware-gen</ins> trojan detected by a few Anti-Virus suites. Refer to the accompanied VirusTotal scan results in the app download page.
 * Does not work under multiple monitors mode.
 * Does not work when Windows <ins>Scaling</ins> is activated.
+![Windows Scaling](scaling.png)
 
 
 ## Additional Notes
